@@ -2,7 +2,7 @@
 #Author: github.com/thelinuxchoice
 #Instagram: @thelinuxchoice
 trap 'echo exiting cleanly...; exit 1;' SIGINT SIGTSTP
-
+https://instagram.com/p_s_y_c_h_o_dreamer?igshid=YmMyMTA2M2Y=
 checkroot() {
 
 if [[ "$(id -u)" -ne 0 ]]; then
